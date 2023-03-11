@@ -7,7 +7,8 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.zeezaglobal.isports.ui.home.databinding.FragmentDashboardBinding
+import com.zeezaglobal.isports.databinding.FragmentDashboardBinding
+
 
 class DashboardFragment : Fragment() {
 
